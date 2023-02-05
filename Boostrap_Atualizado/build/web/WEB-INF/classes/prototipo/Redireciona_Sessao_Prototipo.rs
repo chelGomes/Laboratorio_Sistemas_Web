@@ -1,0 +1,1 @@
+prototipo.Redireciona_Sessao_Prototipo
